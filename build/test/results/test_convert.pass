@@ -13,4 +13,5 @@
   :passed: 1
   :failed: 0
   :ignored: 0
-:stdout: []
+:stdout:
+- '123456'
